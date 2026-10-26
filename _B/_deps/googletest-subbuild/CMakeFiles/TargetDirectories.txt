@@ -1,3 +1,0 @@
-/home/ubuntu/HW2/_B/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/home/ubuntu/HW2/_B/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/ubuntu/HW2/_B/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
