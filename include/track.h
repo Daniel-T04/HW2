@@ -6,7 +6,6 @@
 /**
 * @brief Pairs title with Duration length.
 */
-
 struct Track {
     std::string title;
     Duration length;
